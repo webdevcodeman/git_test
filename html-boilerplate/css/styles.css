@@ -76,10 +76,38 @@ h1{
     color: red;
 }
 */
+/*
 div{
     color:white;
     background-color: black;
 }
 p{
     color: red;
+}
+*/
+*{
+    padding:0;
+    margin:0;
+    font-size: 40px;
+    box-sizing: border-box;
+}
+
+.box-one{
+    background-color: pink;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid purple;
+    margin: 100px;
+    
+}
+
+.box-two{
+    background-color: blue;
+    border:0 solid lightgreen;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid purple;
+    margin: 70px;
 }
